@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Alex Youtube Demo</string>
+    <string name="send_to">Share</string>
+    <string name="player_error">Error initializing Youtube player:%s</string>
+    <string name="seek_to">Jumpt To</string>
+    <string name="seek_to_hint">Seconds</string>
+    <string name="YoutubePlayer">YouTubePlayActivity</string>
+
+</resources>
